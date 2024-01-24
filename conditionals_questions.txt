@@ -1,0 +1,42 @@
+Certainly! Here are the question statements without the accompanying code:
+
+### Question 1:
+Using the given lists of cities per country (India, Pakistan, Bangladesh):
+1. Write a program that asks the user to enter a city name and tells which country the city belongs to.
+2. Write a program that asks the user to enter two cities and tells whether they both are in the same country or not.
+
+### Question 2:
+Write a Python program that determines if the user's sugar level is normal, low, or high based on the fasting sugar level. The normal fasting level sugar range is 80 to 100.
+
+### Question 3:
+Write a program that takes three sides of a triangle as input and prints whether it is a right-angled triangle or not.
+
+### Question 4:
+Write a program that takes an integer as input and prints whether it is positive, negative, or zero.
+
+### Question 5:
+Create a program that checks whether a given year is a leap year or not. A leap year is divisible by 4, but not by 100 unless it is divisible by 400.
+
+### Question 6:
+Write a program that asks the user to enter their age and then prints whether they are a child (0-12 years), teenager (13-19 years), adult (20-59 years), or a senior (60 years and above).
+
+### Question 7:
+Create a program that takes three numbers as input and prints the largest one.
+
+### Question 8:
+Write a program that checks whether a given string is a palindrome (reads the same backward as forward) or not.
+
+### Question 9:
+Create a program that asks the user to input a day of the week and then prints whether it's a weekday or a weekend.
+
+### Question 10:
+Write a program that takes a temperature in Celsius as input and prints whether it is freezing (below 0°C), normal (0-25°C), warm (26-35°C), or hot (above 35°C).
+
+### Question 11:
+Create a program that checks if a given number is even or odd.
+
+### Question 12:
+Write a program that takes a letter as input and prints whether it is a vowel or a consonant.
+
+### Question 13:
+Create a program that asks the user to enter three sides of a triangle and prints whether it is an equilateral, isosceles, or scalene triangle.
